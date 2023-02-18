@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/Assets/fonts/OFL.txt",
+      "sha1": "e863e59268baaeb65f9cde07d7a5b46f39aaed56"
+    },
+    {
+      "path": "src/Assets/fonts/Philosopher-Bold.ttf",
+      "sha1": "31b8bc20d14b922ba8da54416f85a269d281d484"
+    },
+    {
+      "path": "src/Assets/fonts/Philosopher-BoldItalic.ttf",
+      "sha1": "f83cc384520a79bc6b76ae7b8a04ed7d457b8921"
+    },
+    {
+      "path": "src/Assets/fonts/Philosopher-Italic.ttf",
+      "sha1": "29130108001b5f46e642506b27c196774ea9ebf0"
+    },
+    {
+      "path": "src/Assets/fonts/Philosopher-Regular.ttf",
+      "sha1": "c2fa6e9b227cedd373083eb22bdf7e496b4e7831"
+    }
+  ]
+}
